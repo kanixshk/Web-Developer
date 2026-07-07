@@ -1,0 +1,6 @@
+{
+  "name": "InAmigos Foundation",
+  "description": "An interactive philanthropy portal and transparency dashboard for the InAmigos Foundation, driving sustainable social change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
